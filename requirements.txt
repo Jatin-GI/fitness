@@ -4,7 +4,7 @@ python-dotenv
 streamlit
 Pillow
 opencv-python-headless
-mediapipe
+mediapipe==0.10.21
 langchain-google-genai
 langgraph
 plotly
