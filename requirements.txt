@@ -1,0 +1,16 @@
+numpy
+pandas
+python-dotenv
+streamlit
+Pillow
+pytesseract
+opencv-python
+mediapipe
+langchain-google-genai
+langgraph
+plotly
+matplotlib
+seaborn
+python-dateutil
+pytz
+typing-extensions
