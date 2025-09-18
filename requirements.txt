@@ -3,7 +3,6 @@ pandas
 python-dotenv
 streamlit
 Pillow
-pytesseract
 opencv-python-headless
 mediapipe
 langchain-google-genai
