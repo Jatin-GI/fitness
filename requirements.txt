@@ -3,11 +3,14 @@ pandas
 python-dotenv
 streamlit
 Pillow
+pytesseract
 opencv-python-headless
-mediapipe==0.10.21
+mediapipe
 langchain-google-genai
 langgraph
 plotly
 matplotlib
 seaborn
-
+python-dateutil
+pytz
+typing-extensions
