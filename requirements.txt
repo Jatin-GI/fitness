@@ -10,6 +10,4 @@ langgraph
 plotly
 matplotlib
 seaborn
-python-dateutil
-pytz
-typing-extensions
+
